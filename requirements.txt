@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+google-generativeai
+python-dotenv
+pymongo
+requests
+beautifulsoup4
+pinecone
+nomic
